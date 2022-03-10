@@ -48,32 +48,20 @@ Elem* add_new_elem(Elem* ptr, int new_elem) {
 	return ptr;
 };
 
-Elem* create_set_for_3(int size, int min, int max) {
+Elem* create_set(int size, int min, int max,int k) {
 	Elem* set = create_empty_set();
-	while (size >= 0) {
+	while (size >0) {
 		int value = rand_val(min, max);
 		//cout << "rand value=" << value << endl;
-		if (value % 3 == 0&& !is_belongs(set,value)) {
-			set = add_new_elem(set, value);
+		if (value % k == 0&& !is_belongs(set,value)) {
+			set =add_new_elem(set, value);
 			size--;
 			//cout << "creating and add elem now=" << value << endl;
 		}
 	};
 	return set;
 }
-Elem* create_set_for_6(int size, int min, int max) {
-	Elem* set = create_empty_set();
-	while (size >= 0) {
-		int value = rand_val(min, max);
-		//cout << "rand value=" << value << endl;
-		if (value % 6 == 0) {
-			set=add_new_elem(set, value); 
-			size--;
-			//cout << "creating and added elem is=" << value << endl;
-		}
-	};
-	return set;
-}
+
 int get_size_of_set(Elem* ptr) {
 	int size = 0;
 	Elem* tmp = ptr;
