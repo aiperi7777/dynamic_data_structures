@@ -1,0 +1,6 @@
+﻿  SetLab.cpp
+  pdsd3.cpp
+C:\Users\uwuow\source\repos\pdsd3\pdsd3\pdsd3.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\uwuow\source\repos\pdsd3\pdsd3\pdsd3.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  pdsd3.vcxproj -> C:\Users\uwuow\source\repos\pdsd3\x64\Debug\pdsd3.exe

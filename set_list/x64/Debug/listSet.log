@@ -1,0 +1,3 @@
+﻿  listSet.cpp
+C:\Users\uwuow\source\repos\listSet\listSet\listSet.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  listSet.vcxproj -> C:\Users\uwuow\source\repos\listSet\x64\Debug\listSet.exe

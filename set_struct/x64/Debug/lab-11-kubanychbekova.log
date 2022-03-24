@@ -1,0 +1,7 @@
+﻿  SetLab_11_Kubanychbekova.cpp
+C:\Users\uwuow\source\repos\lab-11-kubanychbekova\lab-11-kubanychbekova\SetLab_11_Kubanychbekova.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab-11-kubanychbekova.cpp
+C:\Users\uwuow\source\repos\lab-11-kubanychbekova\lab-11-kubanychbekova\lab-11-kubanychbekova.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\uwuow\source\repos\lab-11-kubanychbekova\lab-11-kubanychbekova\lab-11-kubanychbekova.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab-11-kubanychbekova.vcxproj -> C:\Users\uwuow\source\repos\lab-11-kubanychbekova\x64\Debug\lab-11-kubanychbekova.exe

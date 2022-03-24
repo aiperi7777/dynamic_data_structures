@@ -1,0 +1,9 @@
+﻿  pdsd3.cpp
+C:\Users\uwuow\source\repos\pdsd3\pdsd3\pdsd3.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\uwuow\source\repos\pdsd3\pdsd3\pdsd3.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SetLab.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  pdsd3.vcxproj -> C:\Users\uwuow\source\repos\pdsd3\x64\Release\pdsd3.exe
