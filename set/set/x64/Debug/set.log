@@ -1,0 +1,6 @@
+﻿  SetLab.cpp
+C:\Users\uwuow\source\repos\set\set\SetLab.cpp(39,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  set.cpp
+C:\Users\uwuow\source\repos\set\set\set.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  set.vcxproj -> C:\Users\uwuow\source\repos\set\x64\Debug\set.exe
