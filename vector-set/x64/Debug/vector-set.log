@@ -1,0 +1,3 @@
+﻿  SetLab.cpp
+C:\Users\uwuow\source\repos\vector-set\vector-set\SetLab.cpp(41,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  vector-set.vcxproj -> C:\Users\uwuow\source\repos\vector-set\x64\Debug\vector-set.exe
